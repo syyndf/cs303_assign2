@@ -1,3 +1,6 @@
+///this is the code for part 2///
+
+
 #include<iostream>
 using namespace std;
 
